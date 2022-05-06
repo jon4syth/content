@@ -1,5 +1,5 @@
 # Contributing to the content of MDN Web Docs
-
+Jon is awesome!
 :tada: First of all, thanks for taking the time to contribute to
 [MDN Web Docs](https://developer.mozilla.org)! :tada:
 
